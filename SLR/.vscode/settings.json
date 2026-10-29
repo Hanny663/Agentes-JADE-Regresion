@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\hanya\\OneDrive\\Desktop\\Jade\\JADE-all-4.6.0\\JADE-bin-4.6.0\\jade\\lib\\jade.jar",
+        "c:\\Users\\hanya\\OneDrive\\Desktop\\Jade\\JADE-all-4.6.0\\JADE-src-4.6.0\\jade\\lib\\commons-codec\\commons-codec-1.3.jar"
+    ]
+}
